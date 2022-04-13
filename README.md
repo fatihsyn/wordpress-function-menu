@@ -4,6 +4,5 @@ The special menu in the WordPress site and the area used to automatically pull d
 
 ![](https://fatihsayin.com.tr/function.png)
 
-######Field to be used in Post [FunctionNames limit="20"]
-
-######Field to be added with PHP Code <?php add_shortcode('FunctionNames' true); ?>
+###### Field to be used in Post [FunctionNames limit="20"]
+###### Field to be added with PHP Code <?php add_shortcode('FunctionNames' true); ?>
